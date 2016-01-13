@@ -1,0 +1,5 @@
+name: FlinkEvents
+type: module
+description: This module will be able to handle events and subscriptions to them
+core: 8.x
+package: Flink
